@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: guru.sprintframework.sfgpetclinic.SfgPetClinicApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.25 s <<< FAILURE! - in guru.sprintframework.sfgpetclinic.SfgPetClinicApplicationTests
+guru.sprintframework.sfgpetclinic.SfgPetClinicApplicationTests  Time elapsed: 0.249 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
